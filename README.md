@@ -4,7 +4,7 @@
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![x86](https://img.shields.io/badge/arch-x86-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86) 
 
-An example of how to communicate with a server in a DLL to gather and verify user data. Built around [KeyAuth](https://keyauth.win/).
+An example of how to communicate with a server in a DLL to gather and verify user data. Built around [KeyAuth](https://keyauth.win/)'s seller API.
 
 ## Dependencies
 
